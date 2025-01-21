@@ -53,7 +53,7 @@ img {
 	background-position: -107px 0;
 	color: #fff;
 	display: inline-block;
-	font: 12px/28px Arial, Helvetica, sans-serif;
+	font: 28px/28px Arial, Helvetica, sans-serif;
 	height: 28px;
 	width: 97px;
 	text-align: center;
@@ -195,13 +195,13 @@ img {
 }
 h1 {
 	color: #57614e;
-	font: 29px/30px "Times New Roman", Times, serif;
+	font: 30px/30px "Times New Roman", Times, serif;
 	margin: 0 0 12px;
 	text-transform: uppercase;
 }
 h2 {
 	color: #626262;
-	font: 19px/24px "Times New Roman", Times, serif;
+	font: 24px/24px "Times New Roman", Times, serif;
 	letter-spacing: 2px;
 	margin: 0;
 	text-transform: uppercase;
@@ -253,7 +253,7 @@ p a:hover {
 }
 #adbox .detail p {
 	color: #4e5944;
-	font: 25px/48px "Times New Roman", Times, serif;
+	font: 48px/48px "Times New Roman", Times, serif;
 	margin: 0;
 }
 .highlight {
@@ -387,7 +387,7 @@ p a:hover {
 	background-color: #696969;
 	color: #e2e2e2;
 	display: block;
-	font: 24px/46px "Times New Roman", Times, serif;
+	font: 46px/46px "Times New Roman", Times, serif;
 	height: 46px;
 	width: 265px;
 	text-transform: uppercase;
@@ -582,7 +582,7 @@ p a:hover {
 }
 #footnote p {
 	color: #b5c1aa;
-	font: 24px/30px Arial, Helvetica, sans-serif;
+	font: 30px/30px Arial, Helvetica, sans-serif;
 	margin: 0;
 	padding-right: 10px;
 	text-align: right;
