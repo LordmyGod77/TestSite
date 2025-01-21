@@ -8,6 +8,8 @@ img {
 	display: block;
 	border: 0;
 }
+
+
 /** box-shadow **/
 .box {
 	background-color: #e7e7e7; /* Needed for IE */
@@ -146,7 +148,7 @@ img {
 }
 .navigation li > a {
 	color: #b8c6ac;
-	font: bold 13px/24px Times, "Times New Roman", serif;
+	font: bold 24px/24px Times, "Times New Roman", serif;
 	text-decoration: none;
 	text-shadow: 1px 1px #000;
 	text-transform: uppercase;
@@ -169,7 +171,7 @@ img {
 }
 .navigation li > div a {
 	color: #b8c6ac;
-	font: bold 13px/24px "Times New Roman", Times, serif;
+	font: bold 24px/24px "Times New Roman", Times, serif;
 	display: block;
 	text-align: center;
 	text-decoration: none;
@@ -206,7 +208,7 @@ h2 {
 }
 p {
 	color: #626262;
-	font: 14px/24px Arial, Helvetica, sans-serif;
+	font: 24px/24px Arial, Helvetica, sans-serif;
 	margin: 0 0 24px;
 }
 p a {
@@ -285,7 +287,7 @@ p a:hover {
 .testimonial > span {
 	color: #626262;
 	display: block;
-	font: 14px/24px Arial, Helvetica, sans-serif;
+	font: 24px/24px Arial, Helvetica, sans-serif;
 	text-align: right;
 }
 .featured {
@@ -385,7 +387,7 @@ p a:hover {
 	background-color: #696969;
 	color: #e2e2e2;
 	display: block;
-	font: 19px/46px "Times New Roman", Times, serif;
+	font: 24px/46px "Times New Roman", Times, serif;
 	height: 46px;
 	width: 265px;
 	text-transform: uppercase;
@@ -443,7 +445,7 @@ p a:hover {
 }
 .sidebar ul li a {
 	color: #755c02;
-	font: 13px/24px Arial, Helvetica, sans-serif;
+	font: 24px/24px Arial, Helvetica, sans-serif;
 	text-decoration: none;
 }
 .sidebar ul li a:hover {
@@ -470,7 +472,7 @@ p a:hover {
 }
 .sidebar .contact li p em {
 	display: block;
-	font-size: 19px;
+	font-size: 24px;
 	font-style: normal;
 }
 .news {
@@ -491,7 +493,7 @@ p a:hover {
 	margin-right: 20px;
 }
 .news > li p.info, .details p.info {
-	font-size: 11px;
+	font-size: 24px;
 	margin: 0;
 	padding-top: 24px;
 }
@@ -525,7 +527,7 @@ p a:hover {
 .message label {
 	color: #626262;
 	display: block;
-	font: 13px/24px Arial, Helvetica, sans-serif;
+	font: 24px/24px Arial, Helvetica, sans-serif;
 }
 .message input[type='text'] {
 	height: 24px;
@@ -559,12 +561,12 @@ p a:hover {
 }
 #footer .section h4 {
 	color: #626262;
-	font: bold 12px/24px Arial, Helvetica, sans-serif;
+	font: bold 24px/24px Arial, Helvetica, sans-serif;
 	margin: 0;
 	text-transform: uppercase;
 }
 #footer .section p {
-	font-size: 12px;
+	font-size: 24px;
 	margin: 0;
 }
 #footer .section:first-child {
@@ -580,7 +582,7 @@ p a:hover {
 }
 #footnote p {
 	color: #b5c1aa;
-	font: 11px/30px Arial, Helvetica, sans-serif;
+	font: 24px/30px Arial, Helvetica, sans-serif;
 	margin: 0;
 	padding-right: 10px;
 	text-align: right;
