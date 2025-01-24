@@ -110,9 +110,6 @@ body {font-family: "Lato", sans-serif}
               <input class="w3-input w3-border" type="text" placeholder="Number" required name="number">
             </div><br>
   <br><br>
-	    
-
-
           </div>
           <input class="w3-input w3-border" type="text" placeholder="Message" required name="message">
           <button class="w3-button w3-black w3-section " type="submit">SEND</button>
@@ -165,19 +162,7 @@ window.onclick = function(event) {
     modal.style.display = "none";
   }
 }
-const scriptURL = 'https://script.google.com/macros/s/AKfycby50egVZyys9qN6uEGj8UNAMRzKgJ0vCiVU2lkR3BmW9TQtobYOJKlN-q33DpC8vNRJDw/exec'
 
-const form = document.forms['contact-form']
-
-form.addEventListener('submit', e => {
-  
-  e.preventDefault()
-  
-  fetch(scriptURL, { method: 'POST', body: new FormData(form)})
-  .then(response => alert("Thank you! Form is submitted" ))
-  .then(() => { window.location.reload(); })
-  .catch(error => console.error('Error!', error.message))
-})
 </script>
 
 </body>
